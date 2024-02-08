@@ -1,1 +1,1 @@
-# Ejercicios realizados en la materia Estructura de Datos y Algoritmos 1
+Ejercicios realizados para aprender sobre Java y el paradigma POO.
